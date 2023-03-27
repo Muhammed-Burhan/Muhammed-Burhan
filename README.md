@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ** Server-Side of SU-Alumni ** for my college.
-
-- 🌱 I’m currently learning **Knex.js/Huawei Certified ICT-Professional(HCIP) Secuirty .**
+- 🔭 I’m currently Learning new tech stuff.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
