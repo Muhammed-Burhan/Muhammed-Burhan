@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Learning new tech stuff(Laravel).
+- 🔭 I’m currently Learning new tech stuff.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
