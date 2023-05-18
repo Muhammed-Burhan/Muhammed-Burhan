@@ -51,6 +51,9 @@
 
 
 <br/>
+ <figure>
+      <embed src="https://wakatime.com/share/@cf7db57d-8465-4fc2-bbfe-ddb654ae6502/de8468a9-cb79-47d9-946d-3f1d61788c73.svg"></embed>
+    </figure>
 <br/>
 
 ## Connect with me:
