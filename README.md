@@ -51,8 +51,6 @@
 
 
 <br/>
-![Wakatime Stats](https://wakatime.com/share/@cf7db57d-8465-4fc2-bbfe-ddb654ae6502/4870b3b7-aac0-42c8-ac16-b33aefd672e8.svg)
-<br/>
 <br/>
 
 ## Connect with me:
