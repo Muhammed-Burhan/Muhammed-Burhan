@@ -12,7 +12,7 @@
 
 - 👨‍💻 Feel free to check my repos and rate them.
 
-- 📫 How to reach me ** muhammed_b.eng@outlook.com **.
+- 📫 How to reach me ** mohammed_burhan@outlook.com **.
 
 
 ## 🚀 Languages and Tools:
