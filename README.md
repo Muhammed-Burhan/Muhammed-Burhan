@@ -18,7 +18,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="50" height="40" style="max-width: 100%; "/> </a>
     <a href="https://nextjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/58115075/141657322-09c0cb57-c305-4310-bf90-fc42b5b33545.png" alt="nextjs" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
