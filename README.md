@@ -63,4 +63,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Muhammed-Burhan">
 </a>
+<a href="https://wakatime.com/@cf7db57d-8465-4fc2-bbfe-ddb654ae6502"><img src="https://wakatime.com/badge/user/cf7db57d-8465-4fc2-bbfe-ddb654ae6502.svg" alt="Total time coded since May 11 2023" /></a>
 <a href="https://github.com/Muhammed-Burhan?tab=followers"><img src="https://img.shields.io/github/followers/Muhammed-Burhan?label=Followers&style=social" alt="GitHub Badge"></a>
