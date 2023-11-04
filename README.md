@@ -4,13 +4,6 @@
 <h3 align="center">I'm a Full-Stack Developer/Network Engineer </h3>
 
 
-## 🙋‍♂️ About Me
-
-- 👨‍💻 Feel free to check my repos and rate them.
-
-- 📫 How to reach me ** mohammed_burhan@outlook.com **.
-
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
