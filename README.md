@@ -1,11 +1,11 @@
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00CED1&size=57&center=true&vCenter=true&width=1200&height=120&lines=Muhammed+Burhan;Full-Stack+Developer+from+Kurdistan;" align="center" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=06D001&size=57&center=true&vCenter=true&width=1200&height=120&lines=Muhammed+Burhan;Full-Stack+Developer+from+Kurdistan;" align="center" width="100%" />
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Burhan&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=00CED1&ring=00CED1&stroke=00CED1&currStreakNum=00CED1&sideNums=00CED1&dates=00CED1" align="center" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Burhan&theme=github-dark-green&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=32CD32&ring=32CD32&stroke=32CD32&currStreakNum=32CD32&sideNums=32CD32&dates=32CD32&background=0D1117" align="center" width="100%" />
 </p>
 <p align="center">
-    <img alt="Muhammed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Muhammed-Burhan&bg_color=0D1117&color=00CED1&line=00CED1&point=FFFFFF&hide_border=true&radius=8&area=true" align="center" width="100%" />
+    <img alt="Muhammed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Muhammed-Burhan&bg_color=0D1117&color=32CD32&line=32CD32&point=FFFFFF&hide_border=true&radius=8&area=true" align="center" width="100%" />
 </p>
 
 ## About Me
