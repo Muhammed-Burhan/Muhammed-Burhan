@@ -30,7 +30,7 @@
 
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-burhan-85b5001a2/"><img src="https://img.icons8.com/fluent/48/00CED1/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-burhan-85b5001a2/"><img src="https://img.icons8.com/fluent/48/00CED1/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/Muhamme50124429"><img src="https://img.icons8.com/fluent/48/00CED1/twitter.png" alt="Twitter"/></a>
 </p>
 
