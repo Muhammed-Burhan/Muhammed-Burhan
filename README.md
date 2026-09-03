@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=06D001&size=57&center=true&vCenter=true&width=1200&height=120&lines=Muhammed+Burhan;Full-Stack+Developer+from+Kurdistan;" align="center" width="100%" />
 
-<p align="center">
-    <img alt="Muhammed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Muhammed-Burhan&bg_color=0D1117&color=32CD32&line=32CD32&point=FFFFFF&hide_border=true&radius=8&area=true" align="center" width="100%" />
-</p>
 
 ## About Me
 
